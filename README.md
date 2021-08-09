@@ -9,6 +9,8 @@
 
 ## API desenvolvida com laravel 8
 
+API desenvolvida com príncipios REST - com operações definidas com | GET - POST - PUT E DELETE 
+
 ## Endpoints
 
 - (GET) /api/notes
